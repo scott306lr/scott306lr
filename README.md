@@ -71,10 +71,10 @@
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/scott306lr">
-    <img height="180em" 
+    <img height="160em" 
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=scott306lr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&include_all_commits=true&count_private=true"
       alt="scott306lr" />
-    <img height="180em" 
+    <img height="160em" 
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=scott306lr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=6"
       alt="scott306lr" bg_color=#808080/>
   </a>
