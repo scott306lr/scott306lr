@@ -1,19 +1,22 @@
 <h1 align="center">Hi There👋, I'm Scott Wang</h1>
-<h3 align="center">Student at NYCU, :taiwan:. </h1>
+<h3 align="center">Student at NYCU, :taiwan: </h1>
 
 <img align="right" src="https://github.com/scott306lr/scott306lr/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p>
 
 <br>
 
+
+<h3 align="left">💬 &nbsp;About Me</h3>
+
 - ⚡ I'm currently most interested in Deep Neural Network and Web Development 
 
-- 🌱 I enjoy learning new stuff from all different categories in school
+- 🌱 I enjoy learning new stuff from all the different categories in school
 
-- 📫 How to reach me **scott306lr@gmail.com**
+- 📫 How to reach me --> **scott306lr@gmail.com**
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/%E5%9F%B9%E7%A2%A9-%E7%8E%8B-557754229/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -26,7 +29,9 @@
       alt="_._.adam._" height="30" width="40" /></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+<h3 align="left">🛠 &nbsp;Tech Stack</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -63,28 +68,16 @@
 
 <br>
 
-<h3>Statistical Data :</h3>
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=scott306lr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/>
-</p>
-
-<br>
-
-<p>
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=scott306lr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" />
-</p>
-
-<br>
-
-<p>
-  <img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=scott306lr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="adam-pw" />
+<h3>⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+  <a href="https://github.com/scott306lr">
+    <img height="180em" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=scott306lr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&include_all_commits=true&count_private=true"
+      alt="scott306lr" />
+    <img height="180em" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=scott306lr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=6"
+      alt="scott306lr" bg_color=#808080/>
+  </a>
 </p>
 
 <!--
