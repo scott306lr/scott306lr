@@ -84,7 +84,5 @@
 
 <h3>✍️ &nbsp;Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
-
 - [今天宣布，正式啟用部落格！](https://lrnycu.blogspot.com/2022/07/blog-post.html)
-
 <!-- BLOG-POST-LIST:END -->
