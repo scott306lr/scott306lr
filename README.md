@@ -66,7 +66,7 @@
   </a>
 </p>
 
-<br>
+- - -
 
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
@@ -79,6 +79,12 @@
       alt="scott306lr" bg_color=#808080/>
   </a>
 </p>
+
+- - -
+
+<h3>✍️ &nbsp;Blog Posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **scott306lr/scott306lr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
