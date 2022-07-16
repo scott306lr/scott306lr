@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Scott Wang</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">,  I'm Scott Wang !</h1>
 <h3 align="center">Student at NYCU, :taiwan: </h1>
 
 <img align="right" src="https://github.com/scott306lr/scott306lr/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p>
