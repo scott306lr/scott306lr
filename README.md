@@ -8,9 +8,9 @@
 
 <h3 align="left">💬 &nbsp;About Me</h3>
 
-- ⚡ I'm currently most interested in Deep Neural Network and Web Development 
+- ⚡ I'm currently most interested in Web Development, Machine Learning and Data Science.
 
-- 🌱 I enjoy learning new stuff from all the different categories in school
+- 🌱 I enjoy learning new stuff from all the different categories in school.
 
 - 📫 How to reach me --> **scott306lr@gmail.com**
 
