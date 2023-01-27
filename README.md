@@ -85,5 +85,6 @@
 <h3>✍️ &nbsp;Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [經過了一個學期，一些對於未來該如何生活的想法](https://lrnycu.blogspot.com/2023/01/blog-post.html)
 - [今天宣布，正式啟用部落格！](https://lrnycu.blogspot.com/2022/07/blog-post.html)
 <!-- BLOG-POST-LIST:END -->
