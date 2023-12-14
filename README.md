@@ -1,5 +1,7 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">,  I'm Scott Wang !</h1>
-<h3 align="center">Student at NYCU, :taiwan: </h1>
+<h3 align="center">Postgraduate at NYCU, :taiwan: </h1>
 
 <img align="right" src="https://github.com/scott306lr/scott306lr/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p>
 
@@ -8,9 +10,9 @@
 
 <h3 align="left">💬 &nbsp;About Me</h3>
 
-- ⚡ I'm currently most interested in Web Development, Machine Learning and Data Science.
+- ⚡ I have some experience around accelerating modern DNN models, web, and VR development.
 
-- 🌱 I enjoy learning new stuff from all the different categories in school.
+- 🌱 I'm currently most interested in Machine Learning and Data Science related topics.
 
 - 📫 How to reach me --> **scott306lr@gmail.com**
 
@@ -64,6 +66,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Adobe_premiere_logo_vector.svg" alt="premiere"
       width="40" height="40" /> 
   </a>
+  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <i class="devicon-blender-original colored"></i>
+  </a>
+
+  
+
 </p>
 
 - - -
