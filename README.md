@@ -10,9 +10,9 @@
 
 <h3 align="left">💬 &nbsp;About Me</h3>
 
-- 🌱 My reaserch focuses on accelerating modern DNN models, in both CV and NLP. Currently working more on LLM related acceleration methods.
+- ⚡ My reaserch focuses on accelerating modern DNN models, in both CV and NLP. Currently working more on LLM related acceleration methods.
 
-- ⚡ I also have experiences in web (mostly React) and Unity (VR) game developement.
+- 🌱 I also have experiences in web (mostly React) and Unity (VR) game developement.
 
 - 📫 How to reach me --> **scott306lr@gmail.com**
 
