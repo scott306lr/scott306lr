@@ -20,7 +20,7 @@
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
-  <a href="linkedin.com/in/pei-shuo-wang-557754229" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/pei-shuo-wang-557754229/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a> 
   <a href="https://www.facebook.com/scott306lr" target="blank"><img align="center"
